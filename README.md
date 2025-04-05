@@ -1,0 +1,1 @@
+Developed and deployed a deep learning model using PyTorch to categorize images of birds. Employed sklearn for model evaluation, matplotlib for data visualization, and pandas for data manipulation and analysis.
